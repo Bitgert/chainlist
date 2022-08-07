@@ -1033,6 +1033,12 @@
     "32520": {
         "rpcs": [
             "https://rpc.icecreamswap.com"
+            "https://mainnet-rpc.brisescan.com"
+            "https://chainrpc.com"
+            "https://serverrpc.com"
+            "https://testnet.chainrpc.com"
+            "https://testnet-rpc.brisescan.com"
+
         ]
     },
     "39797": {
